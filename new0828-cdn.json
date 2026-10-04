@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/jison5030-wq/ys@main/spider.jar",
+  "spider": "https://raw.githubusercontent.com/jison5030-wq/ys/main/spider.jar",
   "wallpaper": "https://api.dujin.org/bing/1920.php",
   "logo": "https://www.baidu.com/img/flexible/logo/pc/result.png",
   "sites": [
